@@ -1,0 +1,27 @@
+{
+  "name": "log-research",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bunyan": "^1.8.9",
+    "bunyan-rotating-file-stream": "^1.6.2",
+    "moment": "^2.18.1",
+    "winston": "^2.3.1",
+    "winston-daily-rotate-file": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwenChan/loggerResearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwenChan/loggerResearch/issues"
+  },
+  "homepage": "https://github.com/SwenChan/loggerResearch#readme"
+}
